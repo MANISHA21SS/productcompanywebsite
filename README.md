@@ -650,10 +650,8 @@ product.html
 ```
 ## OUTPUT:
 
-### Home Page:
 
-![output](./images/homepage.jpg)
+
 
 ## Result:
-
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
