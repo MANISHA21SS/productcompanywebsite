@@ -649,9 +649,9 @@ product.html
 </html>
 ```
 ## OUTPUT:
-![WhatsApp Image 2023-12-30 at 12 24 32 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/dffb555a-a451-4563-89ba-72e5d3959ff3)
-![WhatsApp Image 2023-12-30 at 12 24 16 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/714011fc-5a5d-4f65-b843-9a044284f724)
-![WhatsApp Image 2023-12-30 at 12 24 01 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/335d61e1-c694-4327-bdfd-c76b55c171c0)
-![WhatsApp Image 2023-12-30 at 12 23 52 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/28986314-38ff-429a-8a41-8af4d07fb42a)
+![WhatsApp Image 2023-12-30 at 12 24 32 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/0ce5cfab-543b-4e8e-aa0b-9987a1769b41)
+![WhatsApp Image 2023-12-30 at 12 24 16 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/d53d096d-cac4-4529-b6a9-e665785311f7)
+![WhatsApp Image 2023-12-30 at 12 24 01 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/ab2c7821-c3d6-4167-8b99-a1f84428b810)
+![WhatsApp Image 2023-12-30 at 12 23 52 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/af52e4bc-1129-4bcd-b80c-165567c6f72c)
 ## Result:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
