@@ -649,9 +649,9 @@ product.html
 </html>
 ```
 ## OUTPUT:
-
-
-
-
+![WhatsApp Image 2023-12-30 at 12 24 32 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/dffb555a-a451-4563-89ba-72e5d3959ff3)
+![WhatsApp Image 2023-12-30 at 12 24 16 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/714011fc-5a5d-4f65-b843-9a044284f724)
+![WhatsApp Image 2023-12-30 at 12 24 01 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/335d61e1-c694-4327-bdfd-c76b55c171c0)
+![WhatsApp Image 2023-12-30 at 12 23 52 AM](https://github.com/MANISHA21SS/productcompanywebsite/assets/147474298/28986314-38ff-429a-8a41-8af4d07fb42a)
 ## Result:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
